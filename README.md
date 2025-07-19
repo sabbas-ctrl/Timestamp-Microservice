@@ -42,12 +42,12 @@ Follow these steps to run the project locally:
 
 2. **Install dependencies**
    ```sh
-   npm run dev
+   npm install
    ```
 
 3. **Start the server**
    ```sh
-   npm start
+   npm run dev
    ```
    The API will be running at `http://localhost:3000/`.
 
